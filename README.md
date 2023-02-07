@@ -1,5 +1,6 @@
 # Text-Mining-Group-6
-The repository for the Text Mining group at VU 2023
+The repository for the Text Mining group at VU 2023  
+Student **Group 6**
 
 ## Students
 
