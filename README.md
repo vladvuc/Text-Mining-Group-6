@@ -3,7 +3,7 @@ The repository for the Text Mining group at VU 2023
 
 ## Students
 
-S. de Lange, , s2.de.lange@student.vu.nl
+S. de Lange, , s2.de.lange@student.vu.nl  
 V. Vučković, 2702819, v.vuckovic@student.vu.nl
 
 ## Assignments
