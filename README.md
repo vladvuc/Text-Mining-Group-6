@@ -8,11 +8,11 @@ V. Vučković, 2702819, v.vuckovic@student.vu.nl
 
 ## Assignments
 
-- [ ] Lab 1 - Assignment Toolkits
-		* deadline: 20 February 2023
-- [ ] Lab 3 - Assignment Sentiments
-		* deadline: 6 March 2023
-- [ ] Lab 4 - Assignment Entities
-		* deadline: 13 March 2023
-- [ ] Lab 6 - Assignment Topic Modelling
-		* deadline: 20 March 2023
+- [ ] Lab 1 - Assignment Toolkits  
+	* deadline: 20 February 2023
+- [ ] Lab 3 - Assignment Sentiments  
+	* deadline: 6 March 2023
+- [ ] Lab 4 - Assignment Entities  
+	* deadline: 13 March 2023
+- [ ] Lab 6 - Assignment Topic Modelling  
+	* deadline: 20 March 2023
