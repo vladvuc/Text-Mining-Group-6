@@ -4,7 +4,9 @@ Student **Group 6**
 
 ## Students
 
+D. J. von Hänisch, , 
 S. de Lange, , s2.de.lange@student.vu.nl  
+A. Oentoro, , 
 V. Vučković, 2702819, v.vuckovic@student.vu.nl
 
 ## Assignments
